@@ -11037,7 +11037,7 @@ header.masthead h1, header.masthead .h1, header.masthead2 h1, header.masthead2 .
   position: relative;
   max-width: 250px;
   max-height: 350px;
-  box-shadow: 0 40px 60px -6px black;
+  border: white;
 }
 
 .card img {
@@ -11147,4 +11147,12 @@ span {
     #67452B;
   background-size: 109px 109px, 109px 109px, 100% 6px, 109px 109px, 109px 109px;
   background-position: 54px 55px, 0px 0px, 0px 0px, 0px 0px, 0px 0px;
+}
+
+.logocontact {
+  width: 110px;
+}
+
+.logo {
+  width: 700px; 
 }
